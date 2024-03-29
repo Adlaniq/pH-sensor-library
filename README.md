@@ -5,7 +5,6 @@ This is a library for interfacing with pH sensors in Arduino projects. The libra
 ## Features
 
 - Read pH values from pH sensors.
-- Calibrate pH sensors for accurate readings.
 - Compatible with a wide range of pH sensors.
 
 ## Installation
